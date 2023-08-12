@@ -8,7 +8,7 @@ version "1.3.0"
 lua54 "yes"
 
 -- shared_scripts {
--- 	'**/config.lua',
+-- 	"**/config.lua",
 -- }
 
 client_scripts {
